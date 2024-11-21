@@ -1,0 +1,20 @@
+#Database Storage
+SQLAlchemy
+psycopg2-binary
+qdrant-client
+numpy 
+scipy
+dotenv
+
+#Backend
+fastapi 
+uvicorn 
+websockets
+
+#Data Processing
+numpy 
+scikit-learn
+pandas
+
+#metrics
+psutil

@@ -1,0 +1,14 @@
+fastapi>=0.104.0
+uvicorn>=0.24.0
+websockets>=12.0
+sqlalchemy>=2.0.23
+psycopg2-binary>=2.9.9
+qdrant-client>=1.6.4
+numpy>=1.24.3
+pandas>=2.0.3
+python-dotenv>=1.0.0
+pydantic>=2.4.2
+pydantic-settings>=2.0.3
+chainlit>=0.7.700
+ollama>=0.1.4
+scipy>=1.11.3 
